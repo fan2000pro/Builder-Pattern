@@ -1,0 +1,14 @@
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\bidon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\bidon.AssemblyInfoInputs.cache
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\bidon.AssemblyInfo.cs
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\bidon.csproj.CoreCompileInputs.cache
+C:\Users\kulikovia\source\repos\bidon\bidon\bin\Debug\net8.0\bidon.exe
+C:\Users\kulikovia\source\repos\bidon\bidon\bin\Debug\net8.0\bidon.deps.json
+C:\Users\kulikovia\source\repos\bidon\bidon\bin\Debug\net8.0\bidon.runtimeconfig.json
+C:\Users\kulikovia\source\repos\bidon\bidon\bin\Debug\net8.0\bidon.dll
+C:\Users\kulikovia\source\repos\bidon\bidon\bin\Debug\net8.0\bidon.pdb
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\bidon.dll
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\refint\bidon.dll
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\bidon.pdb
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\bidon.genruntimeconfig.cache
+C:\Users\kulikovia\source\repos\bidon\bidon\obj\Debug\net8.0\ref\bidon.dll
